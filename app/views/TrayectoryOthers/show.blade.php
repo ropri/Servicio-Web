@@ -1,0 +1,1 @@
+/home/rricardo/Servicio_Web/app/views/TrayectoryOthers/show.blade.php

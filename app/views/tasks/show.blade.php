@@ -1,0 +1,1 @@
+/var/www/laravel/laravel-demo/app/views/tasks/show.blade.php

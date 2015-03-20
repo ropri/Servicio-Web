@@ -1,0 +1,1 @@
+/home/rricardo/Servicio_Web/app/views/Trainings/edit.blade.php

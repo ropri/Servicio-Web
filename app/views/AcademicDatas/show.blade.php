@@ -1,0 +1,1 @@
+/home/rricardo/Servicio_Web/app/views/AcademicDatas/show.blade.php
